@@ -19,4 +19,4 @@ $lang['upload_not_writable'] = "Não há permissão de escrita para o diretório
 
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./application/language/portuguese-br/upload_lang.php */
